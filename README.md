@@ -8,7 +8,7 @@ A dynasty ruling game written in Ruby for use in a command line interface. Build
 
 2. Then run the program using Ruby on your command line, such as:
 
-`Your prompt. ruby DynastyGame_v07.rb`
+`ruby DynastyGame_v07.rb`
 
 3. Then follow the displayed instructions.
 
