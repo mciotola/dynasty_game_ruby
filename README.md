@@ -16,6 +16,11 @@ A dynasty ruling game written in Ruby for use in a command line interface. Build
 
 If you can't run it, you might not have a current version of Ruby installed. Ruby is a programming language. You don't need to know it to play the game, but you do need to have it installed.
 
+## Versions
+
+v01 written in 2013.
+Updated to v07 in November 2019.
+
 ## Further Information
 
 For further information about this economics-based approach, see: 
