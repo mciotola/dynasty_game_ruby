@@ -18,7 +18,7 @@ This game was written as a simple example and demonstration of a computer game t
 
 ## Troubleshooting
 
-- If you can't run it, you might not have a current version of Ruby installed. Ruby is a programming language. You don't need to know it to play the game, but you do need to have it installed.
+- If you can't run it properly, you might not have a current version of Ruby installed. Ruby 1.9.2 or higher is required. Ruby is a programming language. You don't need to know Ruby to play the game, but you do need to have it installed.
 - If your dynasty is ending too quickly, be less belligerent. 
 
 ## Licence
